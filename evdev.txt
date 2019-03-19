@@ -1,0 +1,9 @@
+    <layout>
+      <configItem>
+        <name>norty</name>
+        <shortDescription>NORTY</shortDescription>
+       <description>Norwegian ANSI layout</description>
+        <languageList><iso639Id>eng</iso639Id></languageList>
+     </configItem>
+      <variantList/>
+    </layout>
